@@ -1,0 +1,102 @@
+[
+    {
+        "model": "books.book",
+        "pk": 2,
+        "fields": {
+            "title": "Изучаем Python. Том 1",
+            "author": "Марк Лутц",
+            "price": 2015,
+            "read": true
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 3,
+        "fields": {
+            "title": "Изучаем Python. Том 2",
+            "author": "Марк Лутц",
+            "price": 2779,
+            "read": false
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 4,
+        "fields": {
+            "title": "Программируем на Python",
+            "author": "Майкл Доусон",
+            "price": 1368,
+            "read": true
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 5,
+        "fields": {
+            "title": "Python. Книга рецептов",
+            "author": "Бизли и Джонс",
+            "price": 2731,
+            "read": false
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 6,
+        "fields": {
+            "title": "Python – это просто",
+            "author": "Нилаб Нисчал",
+            "price": 861,
+            "read": false
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 7,
+        "fields": {
+            "title": "Знакомство с Python",
+            "author": "Дэн Бейдер",
+            "price": 1663,
+            "read": false
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 8,
+        "fields": {
+            "title": "Python. К вершинам мастерства",
+            "author": "Лучано Рамальо",
+            "price": 2964,
+            "read": false
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 9,
+        "fields": {
+            "title": "Непрактичный Python",
+            "author": "Воган Ли",
+            "price": 2644,
+            "read": true
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 10,
+        "fields": {
+            "title": "Python без проблем",
+            "author": "Даниэль Зингаро",
+            "price": 1439,
+            "read": true
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 12,
+        "fields": {
+            "title": "философия байрама",
+            "author": "Байрамик",
+            "price": 9250,
+            "read": false
+        }
+    }
+]
