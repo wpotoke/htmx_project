@@ -27,9 +27,9 @@ services:
       volumes:
         - postgres_data:/var/lib/postgresql/data/
       environment:
-        - POSTGRES_USER=htmx
-        - POSTGRES_PASSWORD=0603
-        - POSTGRES_DB=htmx
+        - POSTGRES_USER=**
+        - POSTGRES_PASSWORD=***
+        - POSTGRES_DB=***
   memcached:
       image: memcached:1.6.21
       ports:
